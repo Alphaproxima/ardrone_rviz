@@ -1,3 +1,18 @@
 <launch>
 
+<group ns="ardrone1">
+<node name="" >
+
+
+
+</node>
+</group>
+
+<group ns="ardrone2">
+<node name="">
+
+
+</node>
+</group>
+
 </launch>
